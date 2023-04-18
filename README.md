@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ###School
+=======
+###SchoolD
+>>>>>>> SchoolD
